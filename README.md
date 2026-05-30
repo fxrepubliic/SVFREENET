@@ -72,6 +72,7 @@ New configs are added **every day**. Expired or slow ones are removed regularly 
 Simply update your subscription in your V2Ray app. New configs will be fetched automatically from the same link.
 
 ⭐ **Star this repo** if you find it useful!  
+
 همین کافی است که در اپلیکیشن خود گزینه به‌روزرسانی اشتراک را بزنید. کانفیگ‌های جدید به طور خودکار از همان لینک دریافت می‌شوند.
 
 اگر این مخزن برایتان مفید است، به آن **ستاره** دهید!
