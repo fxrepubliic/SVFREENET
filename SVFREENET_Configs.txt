@@ -1,4 +1,4 @@
-#profile-title: My-Free-Configs
+#profile-title: SVFREENET-CONFIGS
 #profile-update-interval: 1
 #support-url: https://t.me/SVFREENET
 
