@@ -29,3 +29,6 @@ trojan://mitivpn@188.114.97.6:443?security=tls&sni=cdn.linkman1.ir&fp=chrome&alp
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=cdn.linkman1.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=cdn.linkman1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings#%40SVFREENET_5_31_P4_NUM8
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=www.linkman1.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.linkman1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings#%40SVFREENET_5_31_P4_NUM9
 trojan://humanity@104.17.121.71:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40SVFREENET_5_31_P4_NUM10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?#%40SVFREENET_NUM5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?#%40SVFREENET_NUM3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?#%40SVFREENET_NUM1
