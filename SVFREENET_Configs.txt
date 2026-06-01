@@ -31,3 +31,7 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?encryption=none&se
 vless://d0dc32f6-e531-41af-9df6-1547adfb2f35@188.114.97.6:443?encryption=none&security=tls&sni=www.genflix.co.id.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=www.genflix.co.id.cyylr.eu.cc&path=%2Fae-bo#%40SVFREENET_6_1_P1_NUM8
 vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?encryption=none&security=tls&sni=ava.game.naver.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=ava.game.naver.com.cyylr.eu.cc&path=%2Fsg-orcl#%40SVFREENET_6_1_P1_NUM9
 trojan://y5yef0udbqnu7sym@45.130.125.76:443?security=tls&sni=dashboard.nscl.ir&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=dashboard.nscl.ir&path=%2Fdashboard#%40SVFREENET_6_1_P1_NUM10
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?encryption=none&security=tls&sni=ssj.new-persian-song.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ssj.new-persian-song.ir&path=%2F%3Fed%3D80#%40SVFREENET_6_1_HAMRAH_NUM1
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_1_HAMRAH_NUM2
+vless://b8c88c2b-f016-4bca-b306-9ff4968c24aa@snapp.ir:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#%40SVFREENET_6_1_HAMRAH_NUM3
+vless://3b5cef7a-158c-4760-8f27-8298b7f19a12@178.20.209.196:1310?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%40SVFREENET_6_1_HAMRAH_NUM4
