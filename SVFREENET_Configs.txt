@@ -3,6 +3,7 @@
 #support-url: https://t.me/SVFREENET
 
 vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_7_P2_NUM3
+vless://75dd6c7d-b5a2-44f3-843c-812facb22c5e@45.130.125.0:443?encryption=none&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&insecure=0&allowInsecure=0&type=ws&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-melbi#%40SVFREENET_6_7_P3_NUM1
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?encryption=none&security=tls&sni=www.genflix.co.id.r3xxe.eu.cc&insecure=0&allowInsecure=0&type=ws&host=www.genflix.co.id.r3xxe.eu.cc&path=%2Fau-do#%40SVFREENET_6_7_P2_NUM8
 vless://08b006dc-17e4-411d-9528-4369d72ad646@104.18.152.233:443?encryption=none&security=tls&sni=support.zoom.us.ex33r.eu.cc&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.ex33r.eu.cc&path=%2Fsg-melbi#%40SVFREENET_6_7_P1_NUM2
 vless://TIGNAL-CRYPTO@fastly.com:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=%2F&mode=auto#%40SVFREENET_6_6_P2_NUM14
@@ -60,4 +61,7 @@ vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?encryption=none&sec
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@216.24.57.1:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi#%40SVFREENET_Hamrah_NUM16
 vless://790df6a3-c3b3-4642-8505-925c8871f612@216.24.57.1:443?encryption=none&security=tls&sni=somersby.pt.cyylr.eu.cc&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fae-bo#%40SVFREENET_Hamrah_NUM17
 vless://9cc3b212-abc4-4bc0-a9f7-61b6f2e062b6@162.159.253.41:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#%40SVFREENET_Hamrah_NUM18
-
+vless://6f646767-2b94-4287-9c18-180c4482c44c@188.114.97.6:443?encryption=none&security=tls&sni=df.infra.test.shopee.co.id.r3xxe.eu.cc&insecure=0&allowInsecure=0&type=ws&host=df.infra.test.shopee.co.id.r3xxe.eu.cc&path=%2Fus-gllc#%40SVFREENET_6_7_P3_NUM4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SVFREENET_6_7_P3_NUM6
+vless://701138ae-5ed1-49e6-92cb-f6e16cc72cad@77.110.127.191:9443?encryption=none&security=none&type=ws&path=%2Fpourya#%40SVFREENET_6_7_P3_NUM8
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@57.128.183.108:8443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx#%40SVFREENET_6_7_P3_NUM9
