@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://t.me/SVFREENET
 
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_7_P2_NUM3
 vless://75dd6c7d-b5a2-44f3-843c-812facb22c5e@45.130.125.0:443?encryption=none&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&insecure=0&allowInsecure=0&type=ws&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-melbi#%40SVFREENET_6_7_P3_NUM1
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?encryption=none&security=tls&sni=www.genflix.co.id.r3xxe.eu.cc&insecure=0&allowInsecure=0&type=ws&host=www.genflix.co.id.r3xxe.eu.cc&path=%2Fau-do#%40SVFREENET_6_7_P2_NUM8
 vless://08b006dc-17e4-411d-9528-4369d72ad646@104.18.152.233:443?encryption=none&security=tls&sni=support.zoom.us.ex33r.eu.cc&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.ex33r.eu.cc&path=%2Fsg-melbi#%40SVFREENET_6_7_P1_NUM2
