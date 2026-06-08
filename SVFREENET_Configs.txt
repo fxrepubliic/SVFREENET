@@ -62,4 +62,15 @@ vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?encryption=none&sec
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@216.24.57.1:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi#%40SVFREENET_Hamrah_NUM16
 vless://790df6a3-c3b3-4642-8505-925c8871f612@216.24.57.1:443?encryption=none&security=tls&sni=somersby.pt.cyylr.eu.cc&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fae-bo#%40SVFREENET_Hamrah_NUM17
 vless://9cc3b212-abc4-4bc0-a9f7-61b6f2e062b6@162.159.253.41:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#%40SVFREENET_Hamrah_NUM18
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?#%40SVFREENET_6_9_P1_NUM1
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SVFREENET_6_9_P1_NUM2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?#%40SVFREENET_6_9_P1_NUM3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?#%40SVFREENET_6_9_P1_NUM4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080?#%40SVFREENET_6_9_P1_NUM5
+trojan://SoftNetConnect@213.165.45.15:443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&sid=ec166292d30c9301&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%40SVFREENET_6_9_P1_NUM7
+trojan://SoftNetConnect@213.165.45.14:443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=IQCyxl-9qsziXI2RwjyW6iNt1CbkTLuZhDYCjRX3YTA&sid=ec166292d30c9301&spx=%2F&type=xhttp&path=%2F&mode=auto#%40SVFREENET_6_9_P1_NUM8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?#%40SVFREENET_6_9_P1_NUM9
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=%2Ftsghdws#%40SVFREENET_6_9_P1_NUM11
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&type=tcp&headerType=none#%40SVFREENET_6_9_P1_NUM12
+trojan://humanity@141.193.213.21:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%40SVFREENET_6_9_P1_NUM13
+vless://TIGNAL-CRYPTO@151.101.129.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=%2F&mode=auto#%40SVFREENET_6_9_P1_NUM14
