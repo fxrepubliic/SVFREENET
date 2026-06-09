@@ -92,4 +92,7 @@ vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@23.88.54.80:11007?encryption=none&f
 vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?encryption=mlkem768x25519plus.native.0rtt.nCh1CLzIKn7KRTVDcOg_2WRJNLySR9MSvHPrKjnHswM&security=reality&sni=chatgpt.com&fp=chrome&pbk=zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o&sid=0e40&spx=%2Fcache%2Fid&type=xhttp&path=%2Finvalid%2Fapi%2Ftype%2Fkey&mode=stream-one#@SVFREENET_6_10_P2_NUM10
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.193:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_10_P2_NUM11
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_10_P2_NUM12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443?#%40SVFREENET_6_10_P2_NUM13
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SVFREENET_6_10_P2_NUM14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?#%40SVFREENET_6_10_P2_NUM15
 
