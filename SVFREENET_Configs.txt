@@ -3,6 +3,13 @@
 #support-url: https://t.me/SVFREENET
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&security=tls&sni=octopusss4.com&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=%2Ftsghdws#@SVFREENET_6_15_P1_NUM1
+trojan://humanity@45.80.111.7:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#@SVFREENET_6_16_P1_NUM1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_16_P1_NUM2
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bero-3.bexum.fun&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_16_P1_NUM3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_16_P1_NUM4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?#@SVFREENET_6_16_P1_NUM5
+vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&sid=bedc231e12dd39&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#@SVFREENET_6_16_P1_NUM6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096?#@SVFREENET_6_16_P1_NUM7
 vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?encryption=none&security=none&type=xhttp&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&path=%2F&mode=packet-up#@SVFREENET_6_15_P1_NUM2
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&security=tls&sni=octopusss4.com&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=%2Ftsghdws#@SVFREENET_6_15_P1_NUM6
 vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&security=none&type=ws&path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN#@SVFREENET_6_15_P1_NUM7
