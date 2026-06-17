@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://t.me/SVFREENET
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.97:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_17_P1_NUM1
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40SVFREENET_6_17_P2_NUM4
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#@SVFREENET_6_17_P1_NUM2
 vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Oh_hH0LUAL7SHppzMjQ96NSW-qMBDvvogqU1eVxEr2Q&sid=390c3c575aa3ec48&type=tcp&headerType=none#%40SVFREENET_6_18_P1_NUM1
