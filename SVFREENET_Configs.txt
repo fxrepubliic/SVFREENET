@@ -4,6 +4,21 @@
 
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#%40SVFREENET_6_17_P1_NUM2
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?encryption=none&security=none&type=grpc#%40SVFREENET_6_18_P1_NUM3
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM1
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM2
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM4
+vless://abf4819c-889c-459d-b97a-bc16aa76d71b@cdn2.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&host=amnus2.monopolitass.ir&path=%2F#@SVFREENET_6_18_P2_NUM5
+vless://039a1658-e86e-475f-a3a4-67cc249acada@144.124.228.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl3.panel11.ru&fp=firefox&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&sid=e069bfaf9ba2069c&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM6
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.109:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM8
+trojan://humanity@162.159.17.189:443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#@SVFREENET_6_18_P2_NUM9
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#@SVFREENET_6_18_P2_NUM10
+vless://AlfredConfig@159.246.55.251:443?encryption=none&security=tls&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=alfi.yas-nowin.ir&path=%2F#@SVFREENET_6_18_P2_NUM11
+trojan://humanity@172.67.200.219:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#@SVFREENET_6_18_P2_NUM12
+trojan://SoftNetConnect@194.5.193.150:2087?security=reality&sni=www.yahoo.com&fp=chrome&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F&type=grpc#@SVFREENET_6_18_P2_NUM13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?#@SVFREENET_6_18_P2_NUM14
+trojan://SoftNetConnect@194.5.193.150:8443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F&type=tcp&headerType=none#@SVFREENET_6_18_P2_NUM15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#%40SVFREENET_6_18_P1_NUM6
 vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?encryption=none&security=reality&sni=play.google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=xyz&mode=gun#%40SVFREENET_6_18_P1_NUM7
 vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.panel11.ru&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&sid=c64556c616970b14&type=tcp&headerType=none#%40SVFREENET_6_18_P1_NUM9
