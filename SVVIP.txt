@@ -21,6 +21,8 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&f
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.83:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SVFREENET_6_18_P1_NUM11
 vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?encryption=none&security=reality&sni=play.google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=xyz&mode=gun#%40SVFREENET_6_18_P1_NUM7
 trojan://humanity@45.130.125.158:443?security=tls&sni=www.ignitelimit.com&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_18_P1_NUM12
+vless://d05f9a6c-0239-439c-acd3-7bf359cd2194@199.181.197.1:443?encryption=none&security=tls&sni=BPB-8C66b4E5.fxrePUbLiIc.WOrkErs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-8c66b4e5.fxrepubliic.workers.dev&path=%2FeyJqdW5rIjoiS0l4ckwzMnJtaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4NS4xNTkuMTU3LjEyMiJdfQ%3D%3D%3Fed%3D2560#%40SVFREENET_VIP_1
+vless://d05f9a6c-0239-439c-acd3-7bf359cd2194@103.160.204.34:443?encryption=none&security=tls&sni=BPB-8C66b4E5.fxrePUbLiIc.WOrkErs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-8c66b4e5.fxrepubliic.workers.dev&path=%2FeyJqdW5rIjoiS0l4ckwzMnJtaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4NS4xNTkuMTU3LjEyMiJdfQ%3D%3D%3Fed%3D2560#%40SVFREENET_VIP_2
 
 
 
