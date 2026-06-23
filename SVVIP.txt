@@ -11,5 +11,7 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&f
 trojan://humanity@45.130.125.158:443?security=tls&sni=www.ignitelimit.com&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_18_P1_NUM12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?#%40SVFREENET_6_23_P1_NUM4
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.170.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%40SVFREENET_6_23_P1_NUM5
-
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?encryption=none&security=none&type=tcp&headerType=none#new1
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&security=tls&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=%2Fhdgrbws#new2
+vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?encryption=none&security=none&type=tcp&headerType=none#new3
 
