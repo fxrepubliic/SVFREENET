@@ -92,4 +92,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8
 vless://FREE@45.144.165.11:80?encryption=none&security=none&type=xhttp&host=SpEeDtEsT.nEt&path=%2F&mode=auto#@SVFREENET_6_24_P2_NUM7
 trojan://humanity@141.193.213.21:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#@SVFREENET_6_24_P2_NUM8
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#@SVFREENET_6_24_P2_NUM9
-
+trojan://MiTiVPN@151.101.1.242:443?security=tls&sni=www.f6r.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.f6r.ir&path=%2F#@SVFREENET_6_24_P3_NUM1
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#@SVFREENET_6_24_P3_NUM2
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#@SVFREENET_6_24_P3_NUM3
+vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80?encryption=none&security=none&type=ws&host=your.nexuschat.fun&path=%2Fnexus#@SVFREENET_6_24_P3_NUM4
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#@SVFREENET_6_24_P3_NUM5
