@@ -36,7 +36,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=bab-6.site&path=%2Fvws%2F#%40SVFREENET_6_21_P1_NUM3
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&sni=45.61.52.243&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SVFREENET_6_18_P3_NUM2
 trojan://humanity@208.103.161.170:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#%40SVFREENET_6_20_P1_NUM11
-vless://9619a95b-46ba-4c1e-b353-af4aa5353519@9sbisocj5c11.dxdx5.com:55800?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_21_P1_NUM5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080?#%40SVFREENET_6_14_P1_NUM4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080?#%40SVFREENET_6_3_P1_NUM9
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none#%40SVFREENET_6_18_P2_NUM2
@@ -61,13 +60,10 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?encryption=non
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.170.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%40SVFREENET_6_23_P1_NUM15
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.57.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%40SVFREENET_6_23_P1_NUM16
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_23_P1_NUM17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?#%40SVFREENET_6_23_P1_NUM18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?#%40SVFREENET_6_23_P1_NUM19
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_23_P2_NUM1
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_23_P2_NUM2
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%40SVFREENET_6_23_P2_NUM3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenllSDIyaUdTMVVEZWV3NXp6YlRpbXFlY3JHQktTUzFJc0VxaA@185.246.153.12:31348?#%40SVFREENET_6_23_P2_NUM4
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#%40SVFREENET_6_23_P2_NUM5
 vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?encryption=none&security=none&type=xhttp&host=cJ-sPeEdTeSt.EbB.mY&path=%2F&mode=auto#%40SVFREENET_6_23_P2_NUM6
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?encryption=none&security=none&type=grpc#%40SVFREENET_6_23_P2_NUM7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080?#%40SVFREENET_6_23_P2_NUM8
