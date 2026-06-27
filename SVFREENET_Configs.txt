@@ -85,4 +85,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJ
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=tcp&headerType=none#%40SVFREENET_6_26_P1_NUM11
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_6_26_P1_NUM12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?#%40SVFREENET_6_26_P1_NUM13
-
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?encryption=none&security=none&type=tcp&headerType=none#@SVFREENET_6_27_P1_NUM1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#@SVFREENET_6_27_P1_NUM2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?#@SVFREENET_6_27_P1_NUM3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080?#@SVFREENET_6_27_P1_NUM4
+trojan://humanity@199.181.197.176:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#@SVFREENET_6_27_P1_NUM5
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=splus.ir#@SVFREENET_6_27_P1_NUM6
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?encryption=none&security=none&type=xhttp&host=a12.crowsvpn.shop&path=%2F&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#@SVFREENET_6_27_P1_NUM7
+vless://bbc5261b-dfd3-4297-bf59-53231f400e18@172.105.244.132:54546?encryption=none&security=none&type=tcp&headerType=none#@SVFREENET_6_27_P1_NUM8
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@68.183.65.82:2083?encryption=none&security=tls&sni=lucky-sky-0104.alvlirm444.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=lucky-sky-0104.alvlirm444.workers.dev&path=%2F#@SVFREENET_6_27_P1_NUM9
+vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&security=none&type=tcp&headerType=none#@SVFREENET_6_27_P1_NUM10
+vless://d949a1af-578e-403c-bf17-b4ac5245ccc9@172.104.150.95:45291?encryption=none&security=none&type=tcp&headerType=none#@SVFREENET_6_27_P1_NUM11
