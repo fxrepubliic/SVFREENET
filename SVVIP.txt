@@ -3,6 +3,8 @@
 #support-url: https://t.me/SVFREENET
 
 vless://be2360aa-bffc-42eb-9159-12fd45c4b88b@snapp.ir:80?encryption=none&security=none&type=ws&host=usern.shahan20199.ir&path=%2F#ELENAKHANOOM
+vless://2e8bd828-792f-402c-b45d-1e4c9e75cff4@188.114.96.6:443?encryption=none&security=tls&sni=153a8a8b3095c617.tinfarr.ir&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=153a8a8b3095c617.tinfarr.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#ELENAKHANOOM%202
+vless://2e8bd828-792f-402c-b45d-1e4c9e75cff4@212.80.19.54:443?encryption=none&security=tls&sni=dl2.soft98.ir&fp=chrome&insecure=1&allowInsecure=1&pcs=b8323aba913b3479e4404bac8d2a62bc016e75b7e03ba2a53b962e240c9c8d0e&type=ws&host=dl2.soft98.ir&path=%2Fws%3Fed%3D360#ELENAKHANOOM%203
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@146.185.134.241:2053?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#NEW1
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@209.38.221.121:2096?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#NEW2
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nbhhh.mrcool.kdns.fr&path=%2Fproxyip#NEW3
