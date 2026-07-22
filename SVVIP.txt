@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://t.me/SVFREENET
 
-vless://be2360aa-bffc-42eb-9159-12fd45c4b88b@snapp.ir:80?encryption=none&security=none&type=ws&host=usern.shahan20199.ir&path=%2F#ELENAKHANOOM
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@jahanban24.irvarzesh123.com:443?encryption=none&security=tls&sni=jahanban24.irvarzesh123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%201
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@gostar24n.aliperfumeshop123.com:443?encryption=none&security=tls&sni=gostar24N.aliperfumeshop123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C
 vless://2e8bd828-792f-402c-b45d-1e4c9e75cff4@212.80.19.54:443?encryption=none&security=tls&sni=dl2.soft98.ir&fp=chrome&insecure=1&allowInsecure=1&pcs=b8323aba913b3479e4404bac8d2a62bc016e75b7e03ba2a53b962e240c9c8d0e&type=ws&host=dl2.soft98.ir&path=%2Fws%3Fed%3D360#ELENAKHANOOM%203
