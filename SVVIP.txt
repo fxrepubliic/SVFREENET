@@ -5,18 +5,10 @@
 vless://bcce07ae-2506-4833-a167-4d6c6efe9ea1@188.114.96.6:443?encryption=none&security=tls&sni=912955f323e2a539.tinfarr.ir&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=912955f323e2a539.tinfarr.ir&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#ELENAKHANOOM%7CNEW
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@jahanban24.irvarzesh123.com:443?encryption=none&security=tls&sni=jahanban24.irvarzesh123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%201
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@gostar24n.aliperfumeshop123.com:443?encryption=none&security=tls&sni=gostar24N.aliperfumeshop123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080?#%40SVFREENET_6_26_P1_NUM8
 trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_VIP_NUM7
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_24_P1_NUM16
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%40SVFREENET_6_24_P2_NUM1
 trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_26_P1_NUM1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080?#%40SVFREENET_6_26_P1_NUM13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080?#%40SVFREENET_7_2_P1_NUM11
-trojan://humanity@104.19.208.184:443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#%40SVFREENET_7_2_P1_NUM22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?#%40SVFREENET_7_8_P1_NUM2
-vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=%2Fcbasur#%40SVFREENET_7_15_P2_NUM1
-trojan://humanity@104.16.72.2:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40SVFREENET_7_15_P3_NUM4
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_7_15_P2_NUM14
-trojan://humanity@172.66.44.211:443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#%40SVFREENET_7_24_P2_NUM28
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2Fassignment#%40SVFREENET_7_15_P2_NUM8
+
 
