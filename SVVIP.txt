@@ -5,17 +5,10 @@
 vless://bcce07ae-2506-4833-a167-4d6c6efe9ea1@188.114.96.6:443?encryption=none&security=tls&sni=912955f323e2a539.tinfarr.ir&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=912955f323e2a539.tinfarr.ir&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#ELENAKHANOOM%7CNEW
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@jahanban24.irvarzesh123.com:443?encryption=none&security=tls&sni=jahanban24.irvarzesh123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%201
 vless://d2ff5c46-ae04-4783-8622-a310bcb2a035@gostar24n.aliperfumeshop123.com:443?encryption=none&security=tls&sni=gostar24N.aliperfumeshop123.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fvr1024%3Fed%3D2560#%F0%9F%8C%9FELENAKHANOOM%F0%9F%8C%9F24%20%7C
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_VIP_NUM7
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_24_P1_NUM16
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%40SVFREENET_6_24_P2_NUM1
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_6_26_P1_NUM1
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40SVFREENET_7_15_P2_NUM14
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.141.83:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%40SVFREENET_8_6_P1_NUM1
-vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#%40SVFREENET_8_6_P1_NUM2
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#%40SVFREENET_8_6_P1_NUM7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?#%40SVFREENET_8_6_P1_NUM8
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d&type=tcp&headerType=none#%40SVFREENET_8_6_P1_NUM17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348?#%40SVFREENET_8_6_P1_NUM22
+
 
 
 
