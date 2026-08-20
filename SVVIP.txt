@@ -12,6 +12,15 @@ vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?encryption=none&se
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2F#%40SVFREENET_8_14_P1_NUM2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388?#%40SVFREENET_8_14_P1_NUM3
 vless://b1e6a8df-effc-4b70-9132-4dca98085420@www.speedtest.net:8443?encryption=none&security=tls&sni=free-irancell.warzonmob.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=free-irancell.warzonmob.ir&path=%2F#NEW
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40SVFREENET_8_21_P2_NUM3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?#%40SVFREENET_8_6_P1_NUM60
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#%40SVFREENET_8_21_P2_NUM5
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#%40SVFREENET_8_21_P4_NUM14
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#%40SVFREENET_8_21_P1_NUM5
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.223:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=savesafe.co&fp=chrome&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&type=tcp&headerType=none#%40SVFREENET_8_21_P1_NUM19
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40SVFREENET_8_21_P2_NUM14
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40SVFREENET_8_21_P2_NUM12
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%40SVFREENET_8_21_P2_NUM15
 
 
 
