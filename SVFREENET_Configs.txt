@@ -2,6 +2,30 @@
 #profile-update-interval: 1
 #support-url: https://t.me/SVFREENET
 
+vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15001?encryption=none&security=none&type=tcp&headerType=none#%40SVFREENET_8_29_P1_NUM1
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#%40SVFREENET_8_29_P1_NUM2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbzFxODdGcWdJR1VKN2sxTkZvRjF3@217.23.13.210:1080?#%40SVFREENET_8_29_P1_NUM3
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%40SVFREENET_8_29_P1_NUM4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#%40SVFREENET_8_29_P1_NUM5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#%40SVFREENET_8_29_P1_NUM6
+vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=chrome&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=e5f67890&type=tcp&headerType=none#%40SVFREENET_8_29_P2_NUM1
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:443?encryption=none&security=none&sni=neth.lckdwn.ru&type=ws&path=%2F#%40SVFREENET_8_29_P2_NUM2
+vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@nltw8.lckdwn.ru:8443?encryption=none&security=reality&sni=dzen.ru&fp=chrome&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&spx=%2Fj0wwmtt5ighhegg&type=tcp&headerType=none&path=%2F#%40SVFREENET_8_29_P2_NUM3
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388?#%40SVFREENET_8_29_P2_NUM4
+vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&sid=7af95330630a7327&type=tcp&headerType=none#%40SVFREENET_8_29_P2_NUM5
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901?#%40SVFREENET_8_29_P2_NUM6
+vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@144.31.40.96:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=firefox&pbk=DophD0TUx8mYl11BY3mQdYI-5hG6mwIfE1EN8DkPJ3w&sid=5979d7a79c264488&type=tcp&headerType=none#%40SVFREENET_8_29_P2_NUM7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388?#%40SVFREENET_8_29_P2_NUM8
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%40SVFREENET_8_29_P2_NUM9
+vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@5.180.40.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloud.mail.ru&fp=chrome&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&sid=dfbfa87e9f37f1f0&type=tcp&headerType=none#%40SVFREENET_8_29_P2_NUM10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#%40SVFREENET_8_29_P2_NUM11
+vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=162.35.231.31.sslip.io&fp=chrome&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&sid=f41bc0b00ca1a978&type=tcp&headerType=none#%40SVFREENET_8_29_P3_NUM1
+vless://XpnTeam-33@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F#%40SVFREENET_8_29_P3_NUM2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%40SVFREENET_8_29_P3_NUM3
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498?#%40SVFREENET_8_29_P3_NUM4
+vless://5086262e-8381-483d-bc2e-d6867439928e@173.255.242.235:23776?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=rDDl9UktPqt5eBQtF_0npmVNjatgwmUc5QLcaI9LVjE&sid=5fa3f40a7cf1b9&type=tcp&headerType=none#%40SVFREENET_8_29_P3_NUM5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%40SVFREENET_8_29_P3_NUM6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#%40SVFREENET_8_29_P3_NUM8
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&headerType=none#%40SVFREENET_8_10_P1_NUM15
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#%40SVFREENET_8_6_P1_NUM7
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&headerType=none#%40SVFREENET_8_10_P1_NUM18
